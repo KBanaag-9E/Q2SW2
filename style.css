@@ -1,0 +1,23 @@
+body {
+	background-image: url(https://preview.redd.it/inwwunbyxp7y.png?width=1080&crop=smart&auto=webp&s=3e556948c0fda3a6ec4d0e1d7980ae353eaa5056)
+}
+
+.container {
+	background-color: background: rgb(2,0,36); background: linear-gradient(270deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+	border-radius: 10px;
+	color: black;
+	font-family: courier;
+	font-weight: bold;
+}
+
+h2 {
+	font-weight: bolder;
+}
+
+h5 {
+	font-weight: bolder;
+}
+
+span {
+	color: white;
+}
