@@ -12,12 +12,18 @@ body {
 
 h2 {
 	font-weight: bolder;
+	color: white;
 }
 
 h5 {
 	font-weight: bolder;
+	color: white;
 }
 
 span {
+	color: white;
+}
+
+a {
 	color: white;
 }
